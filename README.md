@@ -12,4 +12,3 @@ Interacción inmersiva: Los escenarios interactivos ofrecen una experiencia más
 ![Screenshot 2024-10-08 142724](https://github.com/user-attachments/assets/690a0e28-56b3-4318-8930-a778e4e23e86)
 ![Screenshot 2024-10-08 142656](https://github.com/user-attachments/assets/c422a7f8-a2d0-426c-ac11-f6057e8785fd)
 ![Screenshot 2024-10-08 142640](https://github.com/user-attachments/assets/c3c61621-824c-4d45-89ce-29c351e6fdd5)
-![Screenshot 2024-10-08 143839](https://github.com/user-attachments/assets/f2051cc2-df0e-491a-8fea-cadeb42e889b)
